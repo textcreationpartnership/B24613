@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inconveniencies to the English nation which have ensued the Act of navigation, in reference to the growths of Norway, as was proved before the honourable the Committee of Parliament upon Saturday April 4. 1668.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24613</idno><idno type="EEBO-CITATION">99828720</idno>
+  <idno type="VID">206953</idno>
+  <idno type="EEBO-PROQUEST">2240876748</idno>
+  
+            <idno type="STC">Wing I140</idno>
+            <idno type="PROQUEST">99828720</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828720e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206953)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1868:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Inconveniencies to the English nation which have ensued the Act of navigation, in reference to the growths of Norway, as was proved before the honourable the Committee of Parliament upon Saturday April 4. 1668.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Navigation --  Early works to 1800.</term>
+               <term type="geographic_name">Norway --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="critique_of_an_act_of_Parliament">
+            <pb n="1" facs="tcp:206953:1"/>
+            <div type="part">
+               <head>
+                  <hi>INCONVENIENCIES</hi> to the <hi>English</hi> Nation which have ensued the <hi>Act of Navigation,</hi> in reference to the Growths of <hi>Norway,</hi> as was proved before the Honou<g ref="char:EOLhyphen"/>rable the Committee of Parliament upon Saturday <hi>April 4. 1668.</hi>
+               </head>
+               <p n="1">1. BEfore the <hi>Act,</hi> the Trade of <hi>Norway</hi> was generally driven by the <hi>English</hi> in barter of our Growths and Manufactures; whereas now it is driven in Dollars, and the Treasure of the Nation: and those Growths and Manufactures of <hi>England</hi> which are exported into <hi>Nor<g ref="char:EOLhyphen"/>way</hi> are rarely exported but by <hi>Norwegians.</hi>
+               </p>
+               <p n="2">2. The prices of the Growths of <hi>Norway</hi> were become near double, untill about a week since.</p>
+               <p n="3">3. Our own Timber is much wasted by reason of the dearness and scar<g ref="char:EOLhyphen"/>city of <hi>Norway</hi>-Timber.</p>
+               <p n="4">4. We have not built one Ship for that Trade since the <hi>Act,</hi> nor never shall so long as it stands in force, because a forein Ship may be built for half the price, and be more free for Trade: whereas the <hi>Norwegian</hi> hath dou<g ref="char:EOLhyphen"/>bled his Shipping since the <hi>Act,</hi> and built them twice as big as before<note n="a" place="margin">And hath encreased his Mariners from 600 to above 6000.</note>: where<g ref="char:EOLhyphen"/>by the <hi>English</hi> in a short time must necessarily be excluded the Trade of <hi>Nor<g ref="char:EOLhyphen"/>way,</hi> unless he drive it by <hi>Danes</hi> in <hi>Danish</hi> Bottoms.</p>
+               <p n="5">5. The <hi>English</hi> Mariners are now almost wholly laid aside, the Trade of <hi>Norway</hi> being generally driven by the <hi>English</hi> in <hi>Norway</hi> Bottoms, and those sailed by <hi>Norwegians.</hi>
+               </p>
+               <p n="6">6. The <hi>English</hi> are wholly left to the King of <hi>Denmark</hi>'s disposing, with<g ref="char:EOLhyphen"/>out redress, when-ever he pleases to impose any farther Abuses upon them then are contained in the Proposalls<note n="b" place="margin">The Abuse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> complained of in the Proposalls were: The <hi>Engl.</hi> since the year 1646, &amp; by the Trea<g ref="char:EOLhyphen"/>ry made with his <hi>Majesty</hi> 1660, paid ⅘ of a Dollar Custome <hi>per</hi> Last for the Growths of <hi>Norway,</hi> (except the Town of <hi>Ber<g ref="char:EOLhyphen"/>gen:</hi>) since the late War they pay for Custome for Timber a Dollar and half, &amp; for o<g ref="char:EOLhyphen"/>ther Growths a Dollar and ⅘, others 2 Dollars ⅖, and others 3 Dollars: and in measuring the Lastage, the same Ships which before the late War had their Measures adjusted, are now raised 35 &amp; 40 Lasts.</note>.</p>
+               <p n="7">7. It is the Interest of the King of <hi>Denmark</hi> to make the Trade of <hi>Norway</hi> in<g ref="char:EOLhyphen"/>supportable to the <hi>English,</hi> for thereby his Subjects will <hi>monopolize</hi> the Trade.</p>
+               <p n="8">8. The Shipping for the <hi>Newcastle</hi> and <hi>Sunderland</hi> Trade, which have been lost since the beginning of the last War, are not near repaired by the Prizes taken in the War; and before the War the Nation did con<g ref="char:EOLhyphen"/>sume the Coals returned by the Shipping of this Trade: and therefore if this Shipping be now divided into the <hi>Newcastle</hi> and <hi>Norway</hi> Trade, when we have much more occasion for Coals then before the War, it cannot reasonably be expected but the prices of Coals will be as uncertain and dear as during the War.</p>
+               <p n="9">9. All the Shipping of <hi>Norway,</hi> and in the <hi>English</hi> Merchants hands for that Trade, will not supply one third part of our Markets with the Growths of <hi>Norway.</hi>
+               </p>
+               <p n="10">10. By the Act for <hi>Re-building the City,</hi> it is to be built in 3 years, and the Breast-Summer, Story-posts, outward Window-cases, lower Floors, and Roofs of every House, are to be of Oaken Timber; so as allowing 20 Loads of Oak to perform what the Act enjoyns in every House, and 12000 Hou<g ref="char:EOLhyphen"/>ses to be built, this will amount to 240000 Loads of Oak to be expended in this thing onely, besides what must be spent in Back-houses, publick
+<pb n="2" facs="tcp:206953:2"/>Halls and Churches, Posts, Rails, Balconies, &amp;c. Quaere where in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> such quantities of Oaken Timber can be found. But if they could, and be thus converted, it is demonstrable, the King of <hi>Denmark</hi> and the <hi>Dutch</hi> may build 3 men of War, and of equal dimensions, as cheap as the King of <hi>England</hi> shall doe one, and in less time. And how the Sovereignty of the Seas can be preserved, how the Nation secured, and how Navigation maintained upon these terms, the <hi>English</hi> not being permitted to buy and trade in any forein Bottom, is not imaginable. Besides, the City is to be re-built in little more then 2 years, and yet we are denied ⅔ of the most necessary Commodity in order to it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>ADVANTAGES</hi> which in reason will accrue to the <hi>English</hi> Nation, by Repealing the <hi>Act for Navigation,</hi> so far as it relates to the Growths of <hi>Norway,</hi> upon the Con<g ref="char:EOLhyphen"/>ditions mentioned in the Proposalls.</head>
+               <p n="1">1. THE <hi>English</hi> will be incouraged in this Trade, being enabled to drive it upon better terms then any other Nation.</p>
+               <p n="2">2. It will not be in the power of the King of <hi>Denmark</hi> much to prejudice us, though he should ruine his Subjects by it, for the Reasons in the Proposalls.</p>
+               <p n="3">3. Our Markets will be supplied in abundance and at low Rates, whereby</p>
+               <p n="4">4. The City will save above 500000 pound in Building, and may be re<g ref="char:EOLhyphen"/>built in half the time it otherwaies can be<note n="a" place="margin">The pri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es when this Pap<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r was given in were, Tim<g ref="char:EOLhyphen"/>ber 58 s. <hi>per</hi> Load, Deals 7 l. 10 s. a Hundred, which before the <hi>Act</hi> were 28 s. <hi>per</hi> Load, and 4. l. 8. s. a Hun<g ref="char:EOLhyphen"/>dred: so allowing 12000 Hou<g ref="char:EOLhyphen"/>ses to be built, and 18 Load of Timber and 400 Deals to a House, this will amount to 468000, besid<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s the Timber to be used in Back-houses, pub<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ick Halls and Churches. But if the <hi>Newc<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>stl<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>-Fleet be divided into this Trade, C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>als will bear a double price, from whence Brick and Lime will necessarily bear a propor<g ref="char:EOLhyphen"/>tionable Rate.</note>.</p>
+               <p n="5">5. Our own Timber upon all occasions will be preserved, when <hi>Norway</hi>-Timber may be bought cheaper then our own.</p>
+               <p n="6">6. We shall be enabled to build Ships for this and the Fishing-Trade as well as the <hi>Dutch</hi> or any other Nation.</p>
+               <p n="7">7. As the <hi>Norwegian</hi> by reason of the <hi>Act</hi> (whereby the King of <hi>Denmark</hi> hath reaped more Benefit then all his Predecessors ever did by all the Trade and Treaties they made with any Nation, and all by the loss and prejudice of the <hi>English</hi>) hath been enabled to build and encrease his Shipping; so the Repealing of the <hi>Act</hi> will disable him for the future, whereby the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> Merchant may drive the Trade of <hi>Norway</hi> upon the account of our own Manufactures. In the time of <hi>Oliver</hi> the <hi>English</hi> Merchant was under-hand permitted to drive this Trade in forein Bottoms, whereby the <hi>Norwegian</hi> was enforced to sell the Shipping he had built for this Trade.</p>
+               <p n="8">8. The Treasure of the Nation exported by the <hi>English</hi> and <hi>Norwegian</hi> will be much preserved in it.</p>
+               <p n="9">9. We may better expect the Growths of <hi>Norway,</hi> imported by any other Nation, will be returned for our Manufactures, then from <hi>Norwegians.</hi>
+               </p>
+               <p>The reason conceived why these things are not more known, is, because of the paucity of the <hi>Norway</hi>-Traders; and that, as the case stands with them, if they complain, and be not relieved, it will be in the power of the King of <hi>Denmark</hi> to oppress them, and not in the power of the King of <hi>England</hi> to relieve them.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:206953:2"/>
+               <head>Certain <hi>QUAERES</hi> resolved by the <hi>Norway</hi> Merchants.</head>
+               <p n="1">1. THat when these Ships in the <hi>English</hi> Merchants hands for the Trade of <hi>Norway</hi> be spent, if the <hi>Act of Navigation</hi> continue in force, there will not be one Ship left in the <hi>English</hi> hands fit for that Trade.</p>
+               <p>This being so, and the <hi>Act</hi> continuing in force, it cannot be expected but that all Navigation must necessarily sink, and the <hi>English</hi> be left to the sole disposing of the King of <hi>Denmark,</hi> whose Interest will be so much more improved, by how much he imposes upon the <hi>English.</hi>
+               </p>
+               <p n="2">2. When the Ships in the <hi>English</hi> hands be spent, a <hi>Norwegian</hi> may import the Growths of <hi>Norway</hi> cheaper by 30 in the Hundred, then an <hi>English</hi>-man can in a Ship not built for that Trade.</p>
+               <p>This being so, the <hi>English</hi> Merchant will be utterly uncapable of imploy<g ref="char:EOLhyphen"/>ing any <hi>English</hi> Mariners in this Trade, unless he intends to undoe himself in it. Though Timber in Queen <hi>Eliz.</hi> Reign were fourfold more then now it is, and there were not the tenth part of the use of it as now; and though the Act 1 <hi>Eliz.</hi> 13. did under Penalties prohibit the importation of forein Growths by her Subjects in any Ships but <hi>English</hi>-built; yet Firr-Timber, Rafts, Deal-boards, &amp;c. were excepted.</p>
+               <p n="3">3. That in the Timber-Fleet now or lately in the River there was not one Ship <hi>English</hi>-built, or sailed by <hi>English:</hi> and that in one week after it was reported and believed the Trade for Timber would be made free, (at least for some time) the price of Deals fell above 30 s. in a hundred, which other<g ref="char:EOLhyphen"/>wise they would not have done: and if the Merchant were assured the Trade would be free, he would sell them 20 s. a hundred cheaper, whereby the Nation will save above 8000 pound in this Fleet, which otherwise would have been exported by Foreiners.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>REASONS</hi> humbly offered to the <hi>Parliament,</hi> that the Du<g ref="char:EOLhyphen"/>ties to be paid by Strangers who import Timber for Re<g ref="char:EOLhyphen"/>building the City of <hi>London</hi> should be imployed toward the re-building the Churches, and relief of the Hospi<g ref="char:EOLhyphen"/>talls of <hi>Christ</hi> and <hi>S. Bartholomew.</hi>
+               </head>
+               <p n="1">1. IT is not the City of <hi>London</hi> now <hi>standing,</hi> but the <hi>desolate</hi> City in its Ruines, which pays this mony; and therefore most reasonable that this <hi>desolate</hi> City should enjoy the benefit.</p>
+               <p n="2">2. Though the Law enjoyns the Parson and Parish to <hi>repair</hi> the Church, yet no Law compells either to <hi>build</hi> the Church; but if it did, it were <hi>Summum jus</hi> to exact it from those Citizens who suffer under so great a Cala<g ref="char:EOLhyphen"/>mity as the late dreadfull <hi>Fire.</hi>
+               </p>
+               <p n="3">3. It will be no diminution to the <hi>King</hi>'s Revenue; for it is not petitio<g ref="char:EOLhyphen"/>ned but the <hi>King</hi> shall enjoy the Customs paid by the <hi>English</hi> and <hi>Norwegian</hi> as before.</p>
+               <pb n="4" facs="tcp:206953:3"/>
+               <p n="4">4. The <hi>King</hi> will be annually threefold a greater saver by the prices of <hi>Norway</hi>-Timber in building and repairing his Navy and Palaces, when the <hi>Act</hi> permits the Importation of Timber, then his Customs for Timber have yet amounted to yearly.</p>
+               <p n="5">5. It will no waies conduce to the Honour of the <hi>King</hi> to have his Re<g ref="char:EOLhyphen"/>venue increased by those of his suffering Subjects onely, who labour under so great a Judgment as the late <hi>Fire,</hi> and are endeavouring so good a Work as the Re-edifying the City.</p>
+               <p n="6">6. The Piety and Zeal of our Auncestors, heretofore so eminent in buil<g ref="char:EOLhyphen"/>ding Churches, is not so prevalent in the minds of the men of this present Age.</p>
+               <p n="7">7. It will be Scandalous to the Christian World, if in Re-edifying the City, no care or provision be made for the Churches.</p>
+               <p n="8">8. It will be destructive to the City when re-built, if the means for Edu<g ref="char:EOLhyphen"/>cation of the poorer sort of the Youth of the City be suppressed; and the <hi>King</hi> and Nation will suffer so much, by how much <hi>S. Bartholomew's</hi> will be disabled to relieve sick and wounded persons.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
